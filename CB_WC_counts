@@ -1,0 +1,136 @@
+Species	Count	Origin	IUCN
+Phyllobates terribilis	22	Captive Bred	Endangered
+Dendrobates auratus	26	Captive Bred	Least Concern
+Dendrobates tinctorius	38	Captive Bred	Least Concern
+Oophaga pumilio	18	Captive Bred	Least Concern
+Epipedobates anthonyii	15	Captive Bred	Near Threatened
+Phyllobates bicolor	10	Captive Bred	Endangered
+Dendrobates leucomelas	27	Captive Bred	Least Concern
+Ranitomeya imitator	14	Captive Bred	Least Concern
+Phyllobates vittatus	10	Captive Bred	Vulnerable
+Adelphobates galactonotus	18	Captive Bred	Least Concern
+Ranitomeya reticulata	7	Captive Bred	Least Concern
+Ranitomeya amazonica	7	Captive Bred	Least Concern
+Epipedobates tricolor	7	Captive Bred	Vulnerable
+Ranitomeya sirensis	11	Captive Bred	Least Concern
+Ranitomeya vanzolinii	13	Captive Bred	Least Concern
+Ranitomeya benedicta	12	Captive Bred	Vulnerable
+Ranitomeya variabilis	10	Captive Bred	Least Concern
+Ranitomeya ventrimaculata	2	Captive Bred	Least Concern
+Dendrobates truncatus	5	Captive Bred	Least Concern
+Ranitomeya fantastica	11	Captive Bred	Vulnerable
+Ameerega trivittata	3	Captive Bred	Least Concern
+Ranitomeya flavovittata	2	Captive Bred	Least Concern
+Allobates zaparo	3	Captive Bred	Least Concern
+Ameerega silverstonei	2	Captive Bred	Endangered
+Ameerega bassleri	6	Captive Bred	Vulnerable
+Ranitomeya summersi	6	Captive Bred	Endangered
+Phyllobates aurotaenia	4	Captive Bred	Least Concern
+Ranitomeya uakarii	4	Captive Bred	Least Concern
+Oophaga histrionica	5	Captive Bred	Critically Endangered
+Adelphobates quinquevittatus	1	Captive Bred	Least Concern
+Ameerega pepperi	3	Captive Bred	Vulnerable
+Allobates femoralis	1	Captive Bred	Least Concern
+Epipedobates boulengeri	1	Captive Bred	Least Concern
+Epipedobates darwinwallacei	1	Captive Bred	Endangered
+Hyloxalus azureiventris	2	Captive Bred	Endangered
+Hyloxalus nexipus	1	Captive Bred	Least Concern
+Oophaga granulifera	4	Captive Bred	Vulnerable
+Oophaga lehmanni	3	Captive Bred	Critically Endangered
+Oophaga sylvatica	4	Captive Bred	Near Threatened
+Oophaga vincentei	2	Captive Bred	Endangered
+Phyllobates lugubris	1	Captive Bred	Least Concern
+Ameerega bilinguis	3	Captive Bred	Least Concern
+Adelphobates castaneoticus	1	Captive Bred	Least Concern
+Ameerega pongoensis	1	Captive Bred	Vulnerable
+Ameerega ingeri	1	Captive Bred	Data Deficient
+Phyllobates terribilis	0	Wild Caught	Endangered
+Dendrobates auratus	8	Wild Caught	Least Concern
+Dendrobates tinctorius	6	Wild Caught	Least Concern
+Oophaga pumilio	11	Wild Caught	Least Concern
+Epipedobates anthonyii	0	Wild Caught	Near Threatened
+Phyllobates bicolor	0	Wild Caught	Endangered
+Dendrobates leucomelas	3	Wild Caught	Least Concern
+Ranitomeya imitator	0	Wild Caught	Least Concern
+Phyllobates vittatus	0	Wild Caught	Vulnerable
+Adelphobates galactonotus	1	Wild Caught	Least Concern
+Ranitomeya reticulata	0	Wild Caught	Least Concern
+Ranitomeya amazonica	2	Wild Caught	Least Concern
+Epipedobates tricolor	0	Wild Caught	Vulnerable
+Ranitomeya sirensis	0	Wild Caught	Least Concern
+Ranitomeya vanzolinii	0	Wild Caught	Least Concern
+Ranitomeya benedicta	0	Wild Caught	Vulnerable
+Ranitomeya variabilis	0	Wild Caught	Least Concern
+Ranitomeya ventrimaculata	0	Wild Caught	Least Concern
+Dendrobates truncatus	0	Wild Caught	Least Concern
+Ranitomeya fantastica	0	Wild Caught	Vulnerable
+Ameerega trivittata	1	Wild Caught	Least Concern
+Ranitomeya flavovittata	0	Wild Caught	Least Concern
+Allobates zaparo	0	Wild Caught	Least Concern
+Ameerega silverstonei	0	Wild Caught	Endangered
+Ameerega bassleri	0	Wild Caught	Vulnerable
+Ranitomeya summersi	0	Wild Caught	Endangered
+Phyllobates aurotaenia	0	Wild Caught	Least Concern
+Ranitomeya uakarii	0	Wild Caught	Least Concern
+Oophaga histrionica	0	Wild Caught	Critically Endangered
+Adelphobates quinquevittatus	0	Wild Caught	Least Concern
+Ameerega pepperi	0	Wild Caught	Vulnerable
+Allobates femoralis	0	Wild Caught	Least Concern
+Epipedobates boulengeri	0	Wild Caught	Least Concern
+Epipedobates darwinwallacei	0	Wild Caught	Endangered
+Hyloxalus azureiventris	0	Wild Caught	Endangered
+Hyloxalus nexipus	0	Wild Caught	Least Concern
+Oophaga granulifera	0	Wild Caught	Vulnerable
+Oophaga lehmanni	0	Wild Caught	Critically Endangered
+Oophaga sylvatica	0	Wild Caught	Near Threatened
+Oophaga vincentei	0	Wild Caught	Endangered
+Phyllobates lugubris	0	Wild Caught	Least Concern
+Ameerega bilinguis	0	Wild Caught	Least Concern
+Adelphobates castaneoticus	0	Wild Caught	Least Concern
+Ameerega pongoensis	0	Wild Caught	Vulnerable
+Ameerega ingeri	0	Wild Caught	Data Deficient
+Phyllobates terribilis	6	Unknown	Endangered
+Dendrobates auratus	12	Unknown	Least Concern
+Dendrobates tinctorius	20	Unknown	Least Concern
+Oophaga pumilio	4	Unknown	Least Concern
+Epipedobates anthonyii	2	Unknown	Near Threatened
+Phyllobates bicolor	1	Unknown	Endangered
+Dendrobates leucomelas	7	Unknown	Least Concern
+Ranitomeya imitator	0	Unknown	Least Concern
+Phyllobates vittatus	0	Unknown	Vulnerable
+Adelphobates galactonotus	2	Unknown	Least Concern
+Ranitomeya reticulata	0	Unknown	Least Concern
+Ranitomeya amazonica	1	Unknown	Least Concern
+Epipedobates tricolor	1	Unknown	Vulnerable
+Ranitomeya sirensis	3	Unknown	Least Concern
+Ranitomeya vanzolinii	0	Unknown	Least Concern
+Ranitomeya benedicta	2	Unknown	Vulnerable
+Ranitomeya variabilis	0	Unknown	Least Concern
+Ranitomeya ventrimaculata	1	Unknown	Least Concern
+Dendrobates truncatus	0	Unknown	Least Concern
+Ranitomeya fantastica	0	Unknown	Vulnerable
+Ameerega trivittata	0	Unknown	Least Concern
+Ranitomeya flavovittata	1	Unknown	Least Concern
+Allobates zaparo	1	Unknown	Least Concern
+Ameerega silverstonei	0	Unknown	Endangered
+Ameerega bassleri	0	Unknown	Vulnerable
+Ranitomeya summersi	0	Unknown	Endangered
+Phyllobates aurotaenia	2	Unknown	Least Concern
+Ranitomeya uakarii	1	Unknown	Least Concern
+Oophaga histrionica	0	Unknown	Critically Endangered
+Adelphobates quinquevittatus	0	Unknown	Least Concern
+Ameerega pepperi	0	Unknown	Vulnerable
+Allobates femoralis	0	Unknown	Least Concern
+Epipedobates boulengeri	0	Unknown	Least Concern
+Epipedobates darwinwallacei	0	Unknown	Endangered
+Hyloxalus azureiventris	0	Unknown	Endangered
+Hyloxalus nexipus	0	Unknown	Least Concern
+Oophaga granulifera	0	Unknown	Vulnerable
+Oophaga lehmanni	0	Unknown	Critically Endangered
+Oophaga sylvatica	0	Unknown	Near Threatened
+Oophaga vincentei	0	Unknown	Endangered
+Phyllobates lugubris	0	Unknown	Least Concern
+Ameerega bilinguis	0	Unknown	Least Concern
+Adelphobates castaneoticus	0	Unknown	Least Concern
+Ameerega pongoensis	0	Unknown	Vulnerable
+Ameerega ingeri	0	Unknown	Data Deficient
