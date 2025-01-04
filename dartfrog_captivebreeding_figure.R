@@ -1,3 +1,4 @@
+
 library(tidyverse)
 library(RColorBrewer)
 library(ggpubr)
@@ -18,8 +19,13 @@ colors<- dartfrog_data %>%
 
 
 
+display.brewer.pal(n = 9, name = "Greys")
+brewer.pal(n=9, "Greys")
+
+origin_colors<- c("#FFFFFF", "#525252", "#000000")
+
 p1<- ggplot(dartfrog_data, aes(x=reorder(Species, -Count), y=Count, fill = Origin))+
-  geom_bar(stat="identity")+
+  geom_bar(stat="identity", color = "black")+
   theme_classic()+
   theme(axis.text.x = element_text(size = 20, angle = 70, hjust = 1.1, face = "italic", color = colors$Color),
         axis.text.y = element_text(size = 20, face = "bold"),
@@ -31,9 +37,7 @@ p1<- ggplot(dartfrog_data, aes(x=reorder(Species, -Count), y=Count, fill = Origi
   xlab("Species")+
   ylab("Number of Sources")+
   ggtitle(element_blank())+
-  scale_fill_brewer(palette = "YlOrRd")
-  
-
+  scale_fill_manual(values = origin_colors)
 p1
 
 ggsave("C://Users/andre/OneDrive/Documents/Bernal Lab/Dendrobatids/Biodiversity_Editorial/Letter/Figure1.jpeg", width = 25, height = 20, dpi=300)
